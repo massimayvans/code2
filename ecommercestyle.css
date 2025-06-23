@@ -1,0 +1,68 @@
+
+header.top-page{
+   background-image: url(images/handsome-business-man-by-white-car.jpg);
+   background-image: 100%;
+   background-size: cover; 
+   height:1000px;
+   margin: -1%;
+}
+
+
+.navbar{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    padding: 30px 70px ;
+    margin: 2px 0 0 0;
+    
+
+}
+
+ ul{
+    list-style-type: none;
+    display: flex;
+    justify-content:flex-end;
+    
+   
+   
+ }
+
+ .service{
+    margin-left: 30px;
+  
+   
+ }
+
+ li a{
+  text-decoration: none;
+   color:chocolate;
+   font-size: 17px;
+ }
+ li a:hover:{
+   color:chocolate;
+ }
+
+
+ .logo{
+    font-family:Lucida Sans Unicode;
+    font-size: 40px;
+    color:chocolate;
+ }
+
+ .row {
+     padding-top: 50px;
+     margin-left:25px;
+     min-width: 0px;
+   
+ }
+
+ 
+
+
+
+
+  
+
+
+ 
+
